@@ -1,20 +1,42 @@
 {
-  "short_name": "MiApp",
-  "name": "Mi App Android - Calculadora",
+  "id": "com.miapp.calculadora",
+  "name": "Mi App Android - Calculadora Pro",
+  "short_name": "Calculadora",
+  "description": "Una calculadora moderna y elegante diseñada para Android con modo oscuro y funciones esenciales.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "lang": "es",
   "icons": [
     {
       "src": "placeholder.svg",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     },
     {
       "src": "placeholder.svg",
+      "sizes": "512x512",
       "type": "image/svg+xml",
-      "sizes": "512x512"
+      "purpose": "any"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#10b981",
-  "background_color": "#0f172a"
+  "screenshots": [
+    {
+      "src": "placeholder.svg",
+      "sizes": "1080x1920",
+      "type": "image/svg+xml",
+      "label": "Pantalla principal de la calculadora",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "placeholder.svg",
+      "sizes": "1920x1080",
+      "type": "image/svg+xml",
+      "label": "Vista en tablet",
+      "form_factor": "wide"
+    }
+  ]
 }
