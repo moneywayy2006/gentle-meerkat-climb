@@ -11,30 +11,30 @@
   "lang": "es",
   "icons": [
     {
-      "src": "placeholder.svg",
+      "src": "https://placehold.co/192x192/10b981/ffffff.png?text=Calc",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "placeholder.svg",
+      "src": "https://placehold.co/512x512/10b981/ffffff.png?text=Calculadora",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     }
   ],
   "screenshots": [
     {
-      "src": "placeholder.svg",
+      "src": "https://placehold.co/1080x1920/0f172a/10b981.png?text=Vista+Movil",
       "sizes": "1080x1920",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "label": "Pantalla principal de la calculadora",
       "form_factor": "narrow"
     },
     {
-      "src": "placeholder.svg",
+      "src": "https://placehold.co/1920x1080/0f172a/10b981.png?text=Vista+Tablet",
       "sizes": "1920x1080",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "label": "Vista en tablet",
       "form_factor": "wide"
     }
